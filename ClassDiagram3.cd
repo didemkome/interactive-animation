@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LJR.SceneDemo" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQCAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\LJR\Demo\Scripts\SceneDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LJR.Http" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\LJR\Scripts\Common\Http.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LJR.MethodButtonAttribute" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Assets\LJR\Scripts\Common\MethodButtonAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LJR.MethodButtonDrawer" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\LJR\Scripts\Common\MethodButtonAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LJR.Request&lt;TResponce&gt;" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEQAAAAAAAAEAAQAAAAEAAAAgAAABAIAAAAAI=</HashCode>
+      <FileName>Assets\LJR\Scripts\Common\Request.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LJR.Responce" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\LJR\Scripts\Common\Responce.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LJR.Setting" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\LJR\Scripts\Common\Setting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LJR.RequestDemo1" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAEAAAAAAACAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\LJR\Scripts\Http\RequestDemo1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LJR.ResponceDemo1" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAACAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\LJR\Scripts\Http\RequestDemo1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LJR.Game_data" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Assets\LJR\Scripts\Http\RequestDemo1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LJR.RequestDemo2" Collapsed="true">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAEAAQAAAACAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\LJR\Scripts\Http\RequestDemo2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LJR.ResponceDemo2" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACQAAAAEAIAAACAAgABAAAAAAAAABAQAAAAABAAAEA=</HashCode>
+      <FileName>Assets\LJR\Scripts\Http\RequestDemo2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LJR.Class_value" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\LJR\Scripts\Http\RequestDemo2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LJR.Class_values" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAIAAAAAAgA=</HashCode>
+      <FileName>Assets\LJR\Scripts\Http\RequestDemo2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LJR.Inner_class" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\LJR\Scripts\Http\RequestDemo2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LJR.RequestDemo3" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAEAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\LJR\Scripts\Http\RequestDemo3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LJR.ResponceDemo3" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\LJR\Scripts\Http\RequestDemo3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Script.Animation" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAEAAAAgAAAAIAAAAAAAAAAAAAACAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Script\Animation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Script.NetworkOperations" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAEAAACAAAIAAgAAACAAAAAAMAAAAAAA=</HashCode>
+      <FileName>Assets\Script\NetworkOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Script.Question" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAQAAQAAAAAiAAAAAAAEAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Question.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Script.User" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Assets\Script\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControlUI" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IA0AALIAgCAoEJQAhQAkAIAIABcOBAAAIACEUhCEwxA=</HashCode>
+      <FileName>Assets\Script\ControlUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DisplayUI" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAABAAACAgAAQAAAAAAAAAAQIEAACAIQCEAAAAQRA=</HashCode>
+      <FileName>Assets\Script\DisplayUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServerUI" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAIEEgCAgAAAAAAAAAQAAARwEAAAAIICAAACAwRA=</HashCode>
+      <FileName>Assets\Script\ServerUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VideoPlayer" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAgAAAAIAAAAAAAAAAFAAEAAAAAAAAAQA=</HashCode>
+      <FileName>Assets\Script\VideoPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="LJR.RequestStatus" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAABAAEAAAA=</HashCode>
+      <FileName>Assets\LJR\Scripts\Common\Request.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

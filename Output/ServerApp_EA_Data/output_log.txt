@@ -1,0 +1,77 @@
+Initialize engine version: 5.6.4p2 (278fc6850ee0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 555M (ID=0x1247)
+    Vendor:   NVIDIA
+    VRAM:     1984 MB
+    Driver:   22.21.13.8554
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ali\Documents\EtkilesimliAnimasyon\Output\ServerApp_EA_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ali\Documents\EtkilesimliAnimasyon\Output\ServerApp_EA_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ali\Documents\EtkilesimliAnimasyon\Output\ServerApp_EA_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Ali\Documents\EtkilesimliAnimasyon\Output\ServerApp_EA_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ali\Documents\EtkilesimliAnimasyon\Output\ServerApp_EA_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ali\Documents\EtkilesimliAnimasyon\Output\ServerApp_EA_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ali\Documents\EtkilesimliAnimasyon\Output\ServerApp_EA_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ali\Documents\EtkilesimliAnimasyon\Output\ServerApp_EA_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ali\Documents\EtkilesimliAnimasyon\Output\ServerApp_EA_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ali\Documents\EtkilesimliAnimasyon\Output\ServerApp_EA_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ali\Documents\EtkilesimliAnimasyon\Output\ServerApp_EA_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Ali\Documents\EtkilesimliAnimasyon\Output\ServerApp_EA_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Ali\Documents\EtkilesimliAnimasyon\Output\ServerApp_EA_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\Ali\Documents\EtkilesimliAnimasyon\Output\ServerApp_EA_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\Ali\Documents\EtkilesimliAnimasyon\Output\ServerApp_EA_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\Users\Ali\Documents\EtkilesimliAnimasyon\Output\ServerApp_EA_Data\Managed\LitJson.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: C:\Users\Ali\Documents\EtkilesimliAnimasyon\Output\ServerApp_EA_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ali\Documents\EtkilesimliAnimasyon\Output\ServerApp_EA_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.121683 ms
+SendMsgToScreenhttp://172.20.10.4/test/introAnimation.mp4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SendMsgToScreensubjectSelect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+appisstarting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TypeLoadException: Could not load type 'Newtonsoft.Json.Linq.JArray' from assembly 'Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed'.
+  at ServerUI.ListenServerMessage (UnityEngine.Networking.NetworkMessage message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleReader (UnityEngine.Networking.NetworkReader reader, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleBytes (System.Byte[] buffer, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.TransportReceive (System.Byte[] bytes, Int32 numBytes, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer+ServerSimpleWrapper.OnData (UnityEngine.Networking.NetworkConnection conn, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.HandleData (Int32 connectionId, Int32 channelId, Int32 receivedSize, Byte error) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServerSimple.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.InternalUpdate () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkServer.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:172.20.10.2:25000} time {43491}, last rec time {41091} rtt {436} timeout {2000}
+Log: connection {2} has been disconnected by timeout; address {::ffff:172.20.10.2:53783} time {43540}, last rec time {41091} rtt {378} timeout {2000}
+Log: connection {1} has been disconnected by timeout; address {::ffff:172.20.10.12:25000} time {43982}, last rec time {41834} rtt {703} timeout {2000}
+UnityEngine.Networking.NetworkMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:172.20.10.12:58355} time {44258}, last rec time {41834} rtt {438} timeout {2000}
+Network layer will still work after application suspends
+ 
+(Filename:  Line: 206)
+
+Network layer will still work after application suspends
+ 
+(Filename:  Line: 206)
+
